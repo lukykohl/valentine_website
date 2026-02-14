@@ -24,3 +24,38 @@ Ask your crush:
 
 ## 📁 Project Structure
 
+├── index.html
+├── style.css
+├── script.js
+└── img/
+├── cat-0.jpg
+├── cat-1.jpg
+├── cat-2.jpg
+├── cat-3.jpg
+├── cat-4.jpg
+├── cat-5.jpg
+└── cat-yes.jpg
+
+
+---
+
+## ⚙️ How It Works
+
+- Clicking **No**:
+  - Changes the cat image
+  - Changes the button text
+  - Makes the "Yes" button larger
+  - Stops after 5 clicks
+
+- Clicking **Yes**:
+  - Changes the title text
+  - Hides the buttons
+  - Shows the happy cat image
+
+---
+
+## ▶️ How To Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/valentine-project.git
