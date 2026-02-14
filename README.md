@@ -58,4 +58,4 @@ Ask your crush:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/valentine-project.git
+git clone https://github.com/lukykohl/valentine-project.git
